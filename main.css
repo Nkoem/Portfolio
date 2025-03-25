@@ -1,0 +1,17 @@
+html {
+    font-size: 37px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+body {
+    background-color: black;
+    color: whitesmoke;
+}
+a {
+    color: teal;
+}
+a:visited {
+    color: yellowgreen;
+}
+a:hover, a:active {
+    color: u=y=indigo;
+}
