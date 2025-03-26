@@ -1,2 +1,0 @@
-# Portfolio
-Moja strona portfolio
